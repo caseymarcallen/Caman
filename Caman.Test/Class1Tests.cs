@@ -15,11 +15,5 @@ namespace Caman.Test
 			var c1 = new Class1();
 			Assert.IsType<Class1>(c1);
 		}
-
-		[Fact]
-		public void Class1_FailingTest()
-		{
-			Assert.True(false, "This test should fail");
-		}
     }
 }
