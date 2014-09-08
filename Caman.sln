@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caman", "Caman\Caman.csproj", "{F8DEEBBF-B213-4841-9922-4C2F41DAE3ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caman.Test", "Caman.Test\Caman.Test.csproj", "{2BDA47D3-23DC-4663-A929-4EB74F81BFFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F8DEEBBF-B213-4841-9922-4C2F41DAE3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DEEBBF-B213-4841-9922-4C2F41DAE3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DEEBBF-B213-4841-9922-4C2F41DAE3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDA47D3-23DC-4663-A929-4EB74F81BFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDA47D3-23DC-4663-A929-4EB74F81BFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDA47D3-23DC-4663-A929-4EB74F81BFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDA47D3-23DC-4663-A929-4EB74F81BFFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
